@@ -1,0 +1,9 @@
+server:
+	port: 8084
+connection-pool:
+	ports:
+		- 8082
+		- 8081
+key:
+	private: MHsCAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQEEYTBfAgEBBBiY83pIlSqusFk51nKgepnXD0ramtiq1JWgCgYIKoZIzj0DAQGhNAMyAAQj7veqw8kIf4n88LOwmj56JZMSM9oKlUgEbyh+OP5woy4qdq8rBKaNr6KL2wgx/cM=
+	public: MEkwEwYHKoZIzj0CAQYIKoZIzj0DAQEDMgAEI+73qsPJCH+J/PCzsJo+eiWTEjPaCpVIBG8ofjj+cKMuKnavKwSmja+ii9sIMf3D
